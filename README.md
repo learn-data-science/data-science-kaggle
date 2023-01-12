@@ -1,1 +1,2 @@
-# data-science-kaggle
+# Kaggle Meetup: Datasets and Competition Materials
+
